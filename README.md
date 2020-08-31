@@ -8,7 +8,7 @@ This site is used as a repository for note taking during the 201 portion of Code
 ## Table of Contents:
 Table of all 15 daily reading assignments
 
-[**1.** _Introductory HTML and JavaScript_](/Reading_1.md)
+[**1.** _Introductory HTML and JavaScript_](/Class-01.md)
 
 **2.** _HTML Text, CSS Introduction, and Basic JavaScript Instructions_ 
 
