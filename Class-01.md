@@ -2,7 +2,7 @@
 
 "HTML describes the structure of pages"
 f.e.
-```
+```html
 <html>
    <body>
      <h1> this is the main heading </h1>
@@ -16,12 +16,12 @@ The html and body brackets act like containers defining everything between them 
 
 You can add attributes to a tag line 
 f.e. 
-```
+```html
 <p lang="en-us"> english text </p>
 ```
 
 A better structured page would include a 
-```
+```html
 <head> 
   <title> this is the title </title>
 </head>
