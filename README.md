@@ -6,7 +6,7 @@
 This site is used as a repository for note taking during the 201 portion of Code Fellows course work.
 
 ## Table of Contents:
-First 15 daily reading assignments
+Table of all 15 daily reading assignments
 
 [**1.** _Introductory HTML and JavaScript_](/Reading_1.md)
 
