@@ -10,7 +10,7 @@ Table of all 15 daily reading assignments
 
 [**1.** _Introductory HTML and JavaScript_](/Class-01.md)
 
-**2.** _HTML Text, CSS Introduction, and Basic JavaScript Instructions_ 
+[**2.** _HTML Text, CSS Introduction, and Basic JavaScript Instructions_ ](/Class-02.md)
 
 **3.** _HTML Lists, CSS Boxes, JS Control Flow_
 
