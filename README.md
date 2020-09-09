@@ -22,7 +22,7 @@ Table of all 15 daily reading assignments
 
 **7.** _HTML Tables; JS Constructor Functions_
 
-**8.** _More CSS Layout_
+[**8.** _More CSS Layout_](/Class-08.md)
 
 **9.** _Forms and Events_
 
