@@ -24,7 +24,7 @@ Table of all 15 daily reading assignments
 
 [**8.** _More CSS Layout_](/Class-08.md)
 
-**9.** _Forms and Events_
+[**9.** _Forms and Events_](/Class-09.md)
 
 **10.** _JS Debugging_
 
