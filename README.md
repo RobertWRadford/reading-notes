@@ -26,7 +26,7 @@ Table of all 15 daily reading assignments
 
 [**9.** _Forms and Events_](/Class-09.md)
 
-**10.** _JS Debugging_
+[**10.** _JS Debugging_](/Class-10.md)
 
 **11.** _Assorted Topics_
 
