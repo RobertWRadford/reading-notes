@@ -28,7 +28,7 @@ Table of all 15 daily reading assignments
 
 [**10.** _JS Debugging_](/Class-10.md)
 
-**11.** _Assorted Topics_
+[**11.** _Assorted Topics_](/Class-11.md)
 
 **12.** _Docs for the HTML 'canvas' Element & Chart.js_
 
