@@ -30,7 +30,7 @@ Table of all 15 daily reading assignments
 
 [**11.** _Assorted Topics_](/Class-11.md)
 
-**12.** _Docs for the HTML 'canvas' Element & Chart.js_
+[**12.** _Docs for the HTML 'canvas' Element & Chart.js_](/Class-12.md)
 
 **13.** _Local Storage_
 
