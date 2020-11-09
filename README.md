@@ -1,11 +1,8 @@
-# Code 201 Reading Notes
+# Robert Radford Reading Notes
 
+## Code Fellows 201
 
-
-# Description:
-This site is used as a repository for note taking during the 201 portion of Code Fellows course work.
-
-## Table of Contents:
+### Table of Contents:
 Table of all 15 daily reading assignments
 
 [**1.** _Introductory HTML and JavaScript_](/Class-01.md)
@@ -42,3 +39,6 @@ Table of all 15 daily reading assignments
 
 **15b.** _Finish with the BusMall app_
 
+## Code Fellows 401
+
+### Table of Contents:
