@@ -9,7 +9,7 @@ Table of all 15 daily reading assignments
 
 [**2.** _HTML Text, CSS Introduction, and Basic JavaScript Instructions_ ](/Class-02.md)
 
-**3.** _HTML Lists, CSS Boxes, JS Control Flow_
+[**3.** _HTML Lists, CSS Boxes, JS Control Flow_](/delete_me/delete_me/delete_me/delete_me/delete_me.txt)
 
 **4.** _HTML Links, CSS Layout, JS Functions_
 
